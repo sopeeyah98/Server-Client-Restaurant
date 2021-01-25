@@ -14,11 +14,17 @@ How I ran the code:
 place all java files in a single folder
 
 On 1 terminal:
+
 javac Restaurant.java
+
 java Restaurant 8585
+
 // server open
 
 On another terminal:
+
 javac Client.java
+
 java Client localhost 8585
+
 // interact
