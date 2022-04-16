@@ -1,5 +1,5 @@
-# Assessment
-COMP 371 - Mobile Apps
+# Server Client Restaurant
+COMP 371 - Mobile Apps Assessment
 
 Assumptions:
 1. customer joins via server
